@@ -14,6 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     31 mins         ███████████░░░░░░░░░░░░░░   43.91 % 
+JavaScript   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 % 
+JSON         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Other        7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 <!--END_SECTION:waka-->
