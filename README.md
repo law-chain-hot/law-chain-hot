@@ -5,7 +5,7 @@
 
 
 <!-- - 🔭 I’m currently an **Engineering Master Student @ UIUC**! -->
-- 🔭 I’m currently a **Front End Engineer in @Alibaba**!
+- 🔭 I’m currently a **Software Engineer in @Zoom**!
 - 🌱 I’m currently working on **Full Stack Development**!!
 <!-- - ⚡ I’m currently seeking for full-time general SWE and Front End positions starting at Dec.2020!!!-->
 - 📫 How to reach me: **ianloe666@gmail.com**
