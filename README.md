@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on **Full Stack Development**!!
 <!-- - ⚡ I’m currently seeking for full-time general SWE and Front End positions starting at Dec.2020!!!-->
 - 📫 How to reach me: **ianloe666@gmail.com**
-- 📙 Here is my blog: **[Luo's Blog in Chinese](https://law-chain-hot.github.io)**
+
 
 
 <!--START_SECTION:waka-->
