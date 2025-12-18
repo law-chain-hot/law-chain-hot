@@ -1,13 +1,12 @@
 
 <h1 align="center">
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="36"/> Hello! I'm Luo  </h1>
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="36"/> Hello! I'm Brian  </h1>
 
 
 
-<!-- - 🔭 I’m currently an **Engineering Master Student @ UIUC**! -->
-- 🔭 I’m currently a **Software Engineer in @Zoom**!
+- 🔭 I’m currently a **Software Engineer**!
 - 🌱 I’m currently working on **Full Stack Development**!!
-<!-- - ⚡ I’m currently seeking for full-time general SWE and Front End positions starting at Dec.2020!!!-->
+- 🔧 I created a tool call **WebSocket DevTools** (1k+ Star, 10k+ Users)!!! 
 - 📫 How to reach me: **ianloe666@gmail.com**
 
 
